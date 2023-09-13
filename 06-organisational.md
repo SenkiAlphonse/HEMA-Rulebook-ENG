@@ -108,31 +108,75 @@
 11. When a fencer withdraws from one pool bout only, they are declared as having lost the bout, but
     the score established before is not annulled.
 
-## The direct elimination
+## The direct elimination bouts
 
 1.  The direct elimination table (bout plan) – complete or incomplete – is established taking
     account of the classification table and the special rules for each competition (See Figure 2.)
 
 2.  The organisers of a competition publish the direct elimination bout plan. The direct elimination
-    bouts are for 7 hits or end when the two periods of three minutes, with a one-minute rest
-    between the two periods, have passed.
+    bouts are for 15 hits or end when the two periods of three minutes, have passed.
 
-3.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+3.  1 minute rest is provided after the first 3 minutes or after one of the fencers has scored 8 points - whichever comes first.
 
-4.  The bout ends when:
-    1. One of the fencers has scored 7 hits; or
+4.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+
+5.  The bout ends when:
+    1. One of the fencers has scored 15 hits; or
     2. 2 * 3 minutes of effective fencing time have passed.
 
-5.  The fencer who has scored the greater number of hits is declared the winner.
+6.  The fencer who has scored the greater number of hits is declared the winner.
 
-6.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
+7.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
     to decide who will be the winner if scores are still equal at the end of the extra minute. In
     this case the score recorded on the score-sheet is the real score achieved in the bout.
 
-7.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
+8.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
     their opponent is declared winner of that bout. A fencer who withdraws does not lose their place
     in the overall classification of the competition.
+
+## Team matches
+1. Teams consist of three fencers for each weapon, with or without a reserve. A team may only start a match if all members are present.
+
+2. 
+    1. The team competition shall be conducted with a direct elimination table.
+       
+    3. The initial seeding on the DE table shall be determined as follows: 
+        1. the average of the current weightedRatings of the team members on HEMARatings (the sum of the relativeRatings divided by the number of team members).
+        2. If a fencer has a result in both the 'Mixed/Men' and 'Women' categories, the higher weightedRating will count. 
+        3. Team members without a HEMARating will be counted equally with the the lowest weightedRating in the category corresponding to the weapon, halved (using Mixed/Men for mixed teams, regardless of gender).
+        4. If two teams have the same index calculated in this way, their order shall be determined by drawing lots.
+    
+    4. After the first round of direct elimination, the first 16 places are all fought for. From the 17th place downwards, teams shall be ranked according to their original position on the board.
+
+3. The competition will be organised as follows:
+    1. The method of changes shall apply to all weapons.
+       
+    2. The three fencers of the team each face three members of the other team, resulting in 9 bouts in succession.
+    
+    3. The position of each team on the scoresheet (1-3 / 4-6) of the match shall be determined by drawing lots. The order of the individual fencers will then be decided by the team captains.
+
+    4. The bouts of each team match shall be fought in the following order:
+       3–6 2–5 1–5 1–4 2–4 2–6 1–6 3–5 3–4
+       
+    If this order is intentionally or unintentionally changed, all hits after the change are invalidated and the match continues in the correct order.
+          
+    5. 
+        1. The team captain may request the substitution of a fencer by a reserve named before the start of the whole team match. This substitution may only be made at the end of a bout. However, the replaced fencer may fence once more during the match, but only to replace the fencer who originally replaced them. This second substitution is not allowed if the first substitution was made for the reasons listed in Article 3.6 (a fencer forfeits due to injury) below. No further substitution is allowed after this, even in the event of accident or unavoidable circumstances. Notification of the replacement of a fencer must be made at the latest before the start of the match preceding the next match of the fencer to be replaced and the referee must report it to the opposing team captain.
+        2. If an accident occurs in the bout following the request for a substitution, the team captain may cancel the request (the reserve might have to step in for the injured fencer instead). 
+        3. If, as a consequence, the opposing team captain has also requested a substitution, the substitution requested may be carried out or cancelled.
+    6. 
+        1. If a team member is obliged to withdraw during a bout due to an accident duly recognised by the Organising Team's medical representative, the captain of his team may request a reserve to continue the bout at the point where the competitor obliged to withdraw withdrew, even during the ongoing bout.
+        2. The same procedure shall apply if a member of the team has to be withdrawn from the match due to equipment failure. Cf. 03-general/The Process of the Bouts/24
+        3. However, a competitor so replaced may not resume his place in the team for the same team match. 
+    7. 
+        1. If both the fencer and the reserve (if any) are forced to withdraw, and therefore the team is incomplete, they forfeit the match and must withdraw from the competition. The team retains its place in the final standings. 
+        2. If a fencer is disqualified during a team match, his team forfeits the match and the team is disqualified from the competition without a final ranking. Cf. '07-discipline'/'Penalties'/'Types (groups) of penalties'/3
+    10. If a team does not complete an event in which it is participating for any reason, the Organising Team will apply the rules for competitors who do not complete an event in an individual event, treating each team as a whole as if it were a single competitor. See also 'Appendix'/'Table of offences'.
+    11. If a team does not show up against another team, the following procedure is followed:
+        1. If it has already played against another team, it shall be treated as if it had not completed the tournament in which it is participating (cf. '06-organisation'/'The Direct ELimination'/7;
+        2. If the team does not appear in his first match, it shall be treated as if he had not taken part in the competition at all. 
+5. For rules on time and score limits for team matches, see '03-General'/'Team matches'.
 
 ## Order of bouts
 
