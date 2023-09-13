@@ -108,7 +108,7 @@
 11. When a fencer withdraws from one pool bout only, they are declared as having lost the bout, but
     the score established before is not annulled.
 
-## The direct elimination
+## The direct elimination bouts
 
 1.  The direct elimination table (bout plan) – complete or incomplete – is established taking
     account of the classification table and the special rules for each competition (See Figure 2.)
