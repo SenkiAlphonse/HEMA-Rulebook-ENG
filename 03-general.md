@@ -142,22 +142,22 @@
 3. If a fencer withdraws in the direct elimination phase, the other contestant is declared as winning, and the fencer does not lose
     their place in the overall classification of the competition.
 
-## Team bouts
+## Team matches
 
-1. Each stage of the relay match consists of five hits (5, 10, 15, 20, etc.). Exceptionally, a relay may end with more than 5, 10, 15, etc., if a fencer, while scoring the last valid hit of the relay, scores an additional penalty point: in this case both hits count; the maximum time for each bout is 2 minutes.
+1. Each bout of the relay match consists of five hits (5, 10, 15, 20, etc.). Exceptionally, a relay may end with more than 5, 10, 15, etc., if a fencer, while scoring the last valid hit of the relay, scores an additional penalty point: in this case both hits count; the maximum time for each bout is 2 minutes.
 
 2. The first two opponents will fence until one of them has scored five hits within a time limit of 2 minutes. The next two opponents will continue until the score of one of the teams is ten, within a 2-minute time limit, and so on in successive five-hit bouts with aggregated scores.
 
-3. If after 2 minutes of fencing time the score for the match has not been reached, the next two fencers will pick up the score where it left off and continue fencing as usual to the maximum score for the given bout, with a 2-minute time limit.
+3. If after 2 minutes of fencing time the score for the bout has not been reached, the next two fencers will pick up the score where it left off and continue fencing as usual to the maximum score for the given bout, with a 2-minute time limit.
 (Eg. taking up at 1-4 after the first bout, the second bout's max score is 10, within the given time limit.)
 
 4. The team which first reaches the maximum of 45 hits or which has the most hits after the end of normal playing time wins.
 
-5. If the scores are tied at the end of the normal playing time of the last "stage", the fencers of the last match will continue the bout until one decisive hit, with a time limit of 1 minute. Before the resumption of fencing, the Referee will decide by drawing lots who will be the winner if the score is still tied at the end of the extra time.
+5. If the scores are tied at the end of the normal playing time of the last bout, the fencers of the last bout will continue the bout until one decisive hit, with a time limit of 1 minute. Before the resumption of fencing, the Referee will decide by drawing lots who will be the winner if the score is still tied at the end of the extra time.
 
-6. When the bout is interrupted for any reason, the fencers may ask how much time they have left to fence.
+6. When the match is interrupted for any reason, the fencers may ask how much time they have left to fence.
 
-7. Any fencer who tries to interrupt the competition or to prolong the interruption in an irregular manner will be penalised according to the relevant paragraphs of '07-discipline'/'Penalties' and the 'Appendix'/'03-Penalties'.
+7. Any fencer who tries to interrupt the match or to prolong the interruption in an irregular manner will be penalised according to the relevant paragraphs of '07-discipline'/'Penalties' and the 'Appendix'/'03-Penalties'.
 
 8. Team members may decide individually whether or not to wrestle the given opponent.
    
