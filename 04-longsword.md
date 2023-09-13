@@ -2,92 +2,91 @@
 
 ##How to score hits
 
-1. The longsword is a thrustinging and cutting weapon.
+1. The longsword is a thrusting and cutting weapon.
 
-2. All cuts made with the flat, long and short edges of the blade count as hits.
+2. All cuts made with the flat, long and short edges of the blade count as valid.
 
-3. Hits through the blade, which simultaneously hit the body's valid striking surface and the opponent's weapon, are valid whenever they hit the valid striking surface cleanly.
+3. Hits through the blade, which simultaneously hit the body's valid striking surface and the opponent's weapon, are valid whenever they cleanly hit the valid target area.
 
-4. Hits made with the pommel are valid if they hit the uncovered mesh of the opponent's mask with a mark, even if the button is covered by a glove, and are safely executed. Unnecessary force while hitting with the pommel is penalised as described in the second group of fouls.
+4. Hits made with the pommel are valid if they hit - even if indicatively - the uncovered mesh of the opponent's mask, even if the pommel is covered by hand/glove, and are safely executed. Using unnecessary force while hitting with the pommel is penalised as described in the second group of offences.
 
 ## Valid target areas
 
-1. Only hits that fall on a valid target areas are valid.
+1. Only hits that are carried out on the valid target area are valid.
 
-2. The entire body of the fencer, including the grip of the weapon, clothing and protective equipment, excluding the back of the head, the spine, the back of the feet and the back of the knees, is valid target area.
+2. The fencer's entire body, including the grip of the weapon, clothing and protective equipment, constitute the valid target, excluding the back of the head, spine, feet and back of the knees.
 
-3. It is the responsibility of the referee to judge the severity of cuts and thrusts to an invalid target area and the referee must penalize the fencer who has taken the hit accordingly, as described in the second group of fouls.
+3. It is up to the referee to judge the severity of cuts and thrusts on an invalid target and, depending on this, the referee must penalize the fencer who has taken the hit accordingly, as described in the second group of offences. 
 
-4. The referee in charge of the match shall penalize the fencer who replaces a valid target area with an invalid target area, either by covering or by abnormal movement, in accordance with the first group of disciplinary offences.
+4. The referee in charge of the match shall penalize the fencer who replaces a valid target area with an invalid target, either by covering or by abnormal movement, in accordance with the first group of disciplinary offences.
 
 ## Determination or invalidation of hits
-1. Hits are to be assessed on the basis of the observations of the referee and his assistant who is in charge of the match and observing the action.
+1. Hits are to be assessed on the basis of the observations of the referee in charge of the match and their assistant.
 
-2. Any foul shall invalidate a hit by the offending fencer.
+2. Any offense shall invalidate the hit achieved by the offending fencer in connection with their offending action.
 
-3. Only the referee in charge of the match has the final decision on the factuality of the hit. He may not take into account hits before "go!" and after "stop!"
+3. Only the referee in charge of the match can make the final decision on the factuality of the hit. He may not take
+take into account hits before "go!" and after "stop!"
 
-4. If a hit is outside the valid target area and is not valid.
+4. If a hit is outside the valid hit area, it is not considered valid.
 
 ## Validity and priority of hits
 
-1. The referee in charge of the match alone decides on the validity or priority of a hit, taking into account the following convention rules for long-sword.
+1. The referee in charge of the match alone decides on the validity and priority of a hit, taking into account the following conventions for long-sword fencing.
 
-2. All correctly executed attacks shall be defended or avoided completely and the fencing shall be continued in a correct manner.
+2. All correctly executed attacks shall be parried or avoided completely and the fencing shall be continued in a correct manner.
 
-3. Attacking footwork includes lunges, step lunges, flèche and dynamic cross steps. A simple cross-step forward and any advancing step is considered as a preparation and does not take priority over any simple attack.
-
-4. An attack is properly executed when, during continuous extension of the arm, the tip or edge of the blade continuously threatens the valid target area, preceding the initiation of the attacking footwork.
+3. Attack-footwork includes lunges, step-lunges, flèche-s and dynamic cross-steps. A simple cross-step forward and any advancing step is considered as a preparation and any single attack takes priority over it.
 
 5. In judging the correctness of attacks, the following shall be taken into account:
    
-   1. a simple attack, whether direct or indirect, is correctly executed if the extension of the arm with the point or edge threatening the valid target area precedes the initiation of the attacking footwork.
+   1. a simple attack, whether direct or indirect, is correctly executed if the extension of the arm with the point or edge threatening the valid target area precedes the initiation of the attack-footwork.
    
-   2. a complex attack is correctly executed when the beginning of the extension of the arm at the presentation of the first feint precedes the initiation of the attacking footwork and the hit is received at the latest at the footwork’s completion.
+   2. a complex attack is correctly executed when the beginning of the extension of the arm at the presentation of the first feint precedes the initiation of the final phase of the attacking footwork and the hit is received at the latest at the footwork’s completion.
    
-   3. A simple or complex action, move or act with the arm withdrawn is not an attack, but only a preparation which provides the opportunity to initiate an attacking or attacking-defending counter-attack.
+   3. Simple or complex actions, steps or feints with the arm withdrawn aren't considered attacks, but preparations, over which offensive actions initiated during these movements takes priority.
 
 6. The following factors shall be taken into account in determining the priority of an attack:
 
-   1. If the attack is initiated when the opponent is in line (i.e., with an outstretched arm, with the point threatening a valid target area - langort/long point), the attacker must first deflect the opponent's weapon. The referee officiating the match should note that mere contact of the blades is not considered sufficient to deflect the opponent's weapon.
+   1. If the attack is initiated when the opponent is in line (i.e., with an outstretched arm while the point is threatening a valid target area - langort/long point), the attacker must first deflect the opponent's weapon. The referee officiating the match should note that mere contact of the blades is not considered to be a sufficient deflection of the opponent's weapon, it is up to the referee's discretion to judge that the threatening weapon has been sufficiently deflected.
 
-   2. If the attempt to deflect the blade fails, the right of attack passes to the opponent.
+   2. If the attempt to deflect the blade fails, the line retains its passive priority, and the attack is considered unsuccessful.
 
-   3. If the attack is launched when the opponent is not in line (e.g. long point/langort), the attack may be executed by a straight thrust (cut) or dodge, or by prior effective action that forces the opponent to defend.
+   3. If the attack is launched when the opponent is not in line (e.g. long point/langort), the attack may be executed by a direct or indirect thrust/cut, or by compound attacks, using one or more feints that draw the opponent's parry.
 
-7. In assessing the correctness of complex attacks, the following factors shall be taken into account:
+7. In assessing the correctness of compound attacks, the following factors shall be taken into account:
 
-   1. In  compound attacks, the actions must be correctly presented, i.e:
-   feint with  thrust is made by extending the arm while the point is constantly threatening the valid target area;
-   feint with cut is made by extending the arm, while the blade and the arm form an obtuse angle and the edge of the blade constantly threatens the valid target area.
+   1. In  compound attacks, the feints must be correctly presented, i.e:
+     1. a feint thrust is made by extending the arm while the point constantly threatens the valid target area;
+     1. a feint cut is made by extending the arm, while the blade and the arm form a blunt angle and the edge of the blade constantly threatens the valid target area.
 
-   2. If, in a compound attack, the opponent intercepts the blade during one of the feints and blocks its original path by a bind or an attack on the blade, he gains the right to the riposte.
+   2. If, in a compound attack, the opponent intercepts the blade during one of the feints and blocks its original path by engaging or beating the blade, they gain the right to the riposte.
 
-   3. In a compound attack, the opponent has the right to make a counter attack. However, for it to be valid, the counter attack must precede the completion of the attack by one fencing time, i.e. the counter attack must hit before the attacker has begun the last movement to complete his attack.
+   3. During a compound attack, the opponent has the right to perform a counterattack. However, for the counterattack to be valid, the hit must precede the conclusion (the final move) of the compound attack.
 
-8. Attack with an attack on the blade or bind:
+8. Attacks with taking of the blade (bats or engagements/binds):
 
-   1. In an attack with an attack on the blade or bind, the attack is considered to be correctly executed and takes priority when the attack on the blade falls on the weak part of the opponent's blade, i.e. 1/2 of the blade furthest from the crossguard.
+   1. In an attack with taking of the blade, the attack is considered to be correctly executed and takes priority when the attack on the blade falls on the weak part of the opponent's blade, i.e. 1/2 of the blade furthest from the crossguard.
 
-   2. In an attack on the blade or in a bind, when the blade stroke falls on the strong of the opponent's blade, i.e. on the 1/2 closest to the crossguard, the attack is considered to be incorrectly executed and this attack on the blade gives priority to the opponent's immediate riposte.
+   2. In taking the blade, when the searching blade falls on the strong of the opponent's blade, i.e. on the 1/2 closest to the crossguard, the attack is considered to be incorrectly executed (parried), and gives priority to the opponent's immediate riposte.
 
 9. Parry
 
-   1. A correctly executed parry or avoidance of an attack gives the right to a riposte (counter-attack): the simple counter-cut (or thrust) can be direct or indirect, but to nullify any further action by the attacker it must be executed immediately without hesitation or pause.
+   1. A correctly executed parry or avoidance of an attack gives the right to a riposte : the simple riposte can be a direct or indirect cut or thrust, but to gain priority over any further action by the (former) attacker, it must be executed immediately without hesitation or pause.
 
-   2. The purpose of the parry against thrusts is to prevent the point from reaching the target area, so the defence is correct if, at the end of the action, the opponent's point does not threaten the defender.
+   2. The purpose of the parry against thrusts is to prevent the point from reaching the target area against which the thrust was directed.
 
-   3. The purpose of the parry against cuts is to prevent the hit from reaching the target area against which the opponent's cuts are directed and the opponent's point does not threaten the defender.
+   3. The purpose of the parry against cuts is to prevent the hit from reaching the target area against which the opponent's cut was directed.
    
-   4. The execution of the parry is correct when, before the completion of the attacking action, it resists the arrival of the opponent's hit, closing the line in which this attacking action is to be completed and preventing the opponent's point from endangering the valid target area.
+   4. The parry is correctly executed when the attacking action is resisted before the opponent's hit is completed, closing the line in which this attacking action must be completed and preventing the tip of the opponent's blade from threatening the valid target area.
 
-   5. If a parry has been correctly made, the opponent's attacking action shall be deemed to have been parried by the referee in charge of the match, even if the flexibility of the attacking blade causes the point of the blade to reach the target area, for example, by bending over the crossguard.
+   5. If a parry has been correctly executed, the opponent's attacking action must be considered as parried, even if the flexibility of the attacking blade causes the point of the blade to reach the target area, for example, by bending over the crossguard.
 
-10. Detailed examples and descriptions are given in the Appendix: Priority
+11. Detailed examples and descriptions are given in the Appendix: Priority
 
 ##Close combat
 
-1. Priority is lost when the strong part of the weapons meet (including the crossguard) and/or in wrestling actions. If the fencers hit each other immediately after contact of the strong part of the blades, a point shall be awarded against both of them. Otherwise, they may move away and continue fencing (under the convention rules of longsword fencing) or move to wrestling (under the rules of wrestling).
+1. Priority ceases to exist when the strong parts of the blades meet (including the crossguard) and/or in wrestling actions. If the fencers hit each other simultaneously immediately after the strong parts of the blades (or crossguard/s) have come in contact, a point must be awarded against both of them. Otherwise, they may move away and continue fencing (under the conventional rules of longsword fencing) or move to wrestling (under the rules of wrestling).
 
 ## Judging of hits
 
@@ -103,30 +102,30 @@
 
 4. A double hit, on the other hand, is the result of a faulty action by one of the fencers. Consequently, if there is not a fencing time difference between the two hits:
    
-   1. The fencer who is attacked is alone counted as hit::
+   1. The fencer who is attacked is alone counted as hit:
 
-      1. if he does a counter-attack against a simple attack launched from an appropriate distance;
+      1. if he performs a counter-attack against a simple attack launched from an appropriate distance;
       
       2. if, instead of parrying, he attempts to avoid the hit by increasing the distance, but fails;
       
-      3. if he stops for a while after a successful parry (late riposte). This gives the opponent the right to repeat his attack (doubling, repeated cut (thrust), repeated attack);
+      3. if he hesitates to initiate an offensive action after a successful parry (late riposte), this gives the opponent the right to renew the attack (remise, redoublement, reprise);
 
-      4. if he does a counter attack against compound attack without the advantage of a fencing time difference;
+      4. if he performs a counter attack against compound attack and the hit fails to precede the concluding move of the attack, and subsequently, gets hit;
       
-      5. if his point in line (long point/langort) has been deflected by the opponent with an attack on the blade or a bind and he then attacks or returns to the line instead of defending the directly executed hit of the attacker.
+      5. if his point in line (long point/langort) has been deflected by the opponent with an attack on the blade or a bind and he then attacks or returns to the line instead of parrying the immediate hit of the attacker.
    
    2. The fencer who attacks is alone counted as hit:
    
-      1. if the opponent attacks without deflecting the opponent's blade in line (long point/langort). The referee in charge of the match shall note that mere contact of the blades is not considered sufficient to deflect the opponent's weapon.
+      1. if the opponent attacks without deflecting the opponent's point in line (long point/langort). The referee shall note that mere contact of the blades is not considered sufficient to deflect the opponent's weapon.
    
-      2. if he wants to attack or bind on the blade but cannot make contact (because his opponent has dodged) and so continues his attack.
+      2. if he tries to take the blade but fails to find it (eg. the opponent evaded it) and yet continues his attack.
       
-      3. if, in a compound attack in the course of which his opponent has caught the blade, he continues his attack while his opponent immediately ripostes.
+      3. if, in a compound attack in the course of which his opponent has taken the blade, he continues his attack while his opponent immediately ripostes.
 
-      4. if, in a compound attack, he withdraws his arm or pauses for a moment while his opponent hits him with a counter attack or attack and he continues his attack.
+      4. if, in a compound attack, he withdraws his arm or pauses for a moment while his opponent hits him with a counter attack or attack and yet he continues his attack.
 
-      5. if in a compound attack he receives a counter attack (cut or thrust) one fencing time before he finishes his attack;
+      5. if in a compound attack he receives a counter attack (cut or thrust) before the conclusion of his attack;
 
-      6. if he attacks with a repeated attack, doubling or renewed attack, despite the correctly executed parry of the opponent and an immediate, simple riposte (cut or thrust) executed in one tempo and without retraction of the arm.
+      6. if he attacks with a renewed attack, despite a parry and an immediate, simple riposte (cut or thrust) correctly executed by the opponent.
 
-5. In a counter-attack, if there is doubt about the timing (in relation to the final movement of the compound attack), the double hit may be the result of an error by both parties. Since this is not a tactically neutral/symmetrical situation (i.e. not the result of a simultaneous attack), the referee will not award a point. (The attacker's fault may be: indecision, slow execution, inefficient action. Defender's fault may be: delay or slow execution)
+5. In a counter-attack, if there is doubt about the timing (in relation to the conclusion of the compound attack), the double hit may be the result of an error by both parties. Since this is not a tactically neutral/symmetrical situation (i.e. not the result of a simultaneous attack), the referee will not award a point. (The attacker's fault may be: indecision, slow execution, inefficient action. Defender's fault may be: delay or slow execution)
