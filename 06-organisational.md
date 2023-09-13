@@ -114,25 +114,69 @@
     account of the classification table and the special rules for each competition (See Figure 2.)
 
 2.  The organisers of a competition publish the direct elimination bout plan. The direct elimination
-    bouts are for 7 hits or end when the two periods of three minutes, with a one-minute rest
-    between the two periods, have passed.
+    bouts are for 15 hits or end when the two periods of three minutes, have passed.
 
-3.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+3.  1 minute rest is provided after the first 3 minutes or after one of the fencers has scored 8 points - whichever comes first.
 
-4.  The bout ends when:
-    1. One of the fencers has scored 7 hits; or
+4.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+
+5.  The bout ends when:
+    1. One of the fencers has scored 15 hits; or
     2. 2 * 3 minutes of effective fencing time have passed.
 
-5.  The fencer who has scored the greater number of hits is declared the winner.
+6.  The fencer who has scored the greater number of hits is declared the winner.
 
-6.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
+7.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
     with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
     to decide who will be the winner if scores are still equal at the end of the extra minute. In
     this case the score recorded on the score-sheet is the real score achieved in the bout.
 
-7.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
+8.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
     their opponent is declared winner of that bout. A fencer who withdraws does not lose their place
     in the overall classification of the competition.
+
+## Team bouts
+1. Teams consist of three fencers for each weapon, with or without a reserve. A team may only start a match if all members are present.
+
+2. 
+    1. The team competition shall be conducted with a direct elimination table.
+       
+    3. The initial seeding on the DE table shall be determined as follows: 
+        1. the average of the current weightedRatings of the team members on HEMARatings (the sum of the relativeRatings divided by the number of team members).
+        2. If a fencer has a result in both the 'Mixed/Men' and 'Women' categories, the higher weightedRating will count. 
+        3. Team members without a HEMARating will be counted equally with the the lowest weightedRating in the category corresponding to the weapon, halved (using Mixed/Men for mixed teams, regardless of gender).
+        4. If two teams have the same index calculated in this way, their order shall be determined by drawing lots.
+    
+    4. After the first round of direct elimination, the first 16 places are all fought for. From the 17th place downwards, teams shall be ranked according to their original position on the board.
+
+3. The competition will be organised as follows:
+    1. The method of changes shall apply to all weapons.
+       
+    3. The three fencers of the team each face three members of the other team, resulting in 9 bouts in succession.
+    
+    4. The position of each team on the scoresheet (1-3 / 4-6) of the match shall be determined by drawing lots. The order of the individual fencers will then be decided by the team captains.
+
+    5. The matches of each team bout shall be fought in the following order:
+       3–6 2–5 1–5 1–4 2–4 2–6 1–6 3–5 3–4
+       
+    If this order is intentionally or unintentionally changed, all hits after the change are invalidated and the match continues in the correct order.
+          
+    7. 
+        1. A mérkőzés során a csapatkapitány kérheti egy vívó helyettesítését a csapatmérkőzés kezdete előtt megnevezett tartalékkal. Ez a csere csak egy viadal végén hajtható végre. A lecserélt vívó azonban még egyszer vívhat a mérkőzés alatt, de csak azért, hogy helyettesítse az eredetileg őt helyettesítő vívót. Ez a második csere nem engedélyezett, ha az első csere az alábbi 3.6. cikkben felsorolt okok miatt történt. További, a páston lévő vívó cseréje ezután nem megengedett, még baleset vagy elkerülhetetlen körülmények esetén sem. A vívó lecserélésére vonatkozó bejelentést legkésőbb a lecserélendő vívó következő mérkőzését megelőző mérkőzés kezdete előtt meg kell tenni, és a játékvezetőnek jelentenie kell azt az ellenfél csapatkapitányának.
+        2. Ha a cserekérést követő mérkőzésen baleset történik, a csapatkapitány érvénytelenítheti a kérést. 
+        3. Ha következésképpen az ellenfél csapatkapitánya is cserét kért, az előbb kért csere végrehajtható vagy törölhető.
+    8. 
+        1. Ha egy csapat tagja a mérkőzés alatt a Szervezőcsapat orvosi képviselője által megfelelően elismert baleset miatt köteles visszavonulni, csapatának kapitánya kérheti tartalék felvételét a mérkőzés folytatásához azon a ponton, ahol a visszalépésre kötelezett versenyző visszalépett, még a folyamatban lévő viadal alatt is.
+        2. Ugyanígy kell eljárni akkor is, ha a csapat egyik tagját felszerelés meghibásodása miatt kell kizárni a mérkőzésből. Vö. 03-általános/A mérkőzések menete/24
+        3. Az így lecserélt versenyző azonban ugyanazon a mérkőzésen nem foglalhatja el ismét a helyét a csapatban. 
+    9. 
+        1. Ha mind a vívó, mind a tartalék (ha van ilyen) kénytelen visszalépni, és ezért a csapat nem teljes, akkor elveszti a mérkőzést, és vissza kell lépnie a versenytől. A csapat megőrzi helyét a végső rangsorban. 
+        2. Ha egy vívót csapatmérkőzés közben kizárnak, akkor csapata elvesztette a mérkőzést, és a csapatot végső helyezés nélkül kizárják a versenyből. Vö. '07-etikett_fegyelem'/'Büntetések'/'A büntetések típusai (csoportjai)'/3
+    10. Ha egy csapat bármilyen okból nem fejezi be azt az eseményt, amelyen részt vesz, a Szervezőcsapat azokra a versenyzőkre vonatkozó szabályokat alkalmazza, akik nem teljesítenek egy eseményt egyéni versenyen, minden csapatot teljes egészében úgy kezelve, mintha egyetlen versenyző lenne. Vö. 'Függelék'/'Büntetések táblázata'
+    11. Ha egy csapat nem jelenik meg egy másik csapat ellen, akkor a következőként kell eljárni:
+        1. Ha már vívott egy másik csapat ellen, úgy kell kezelni, mintha nem fejezte volna be a versenyt, amelyen részt vesz (vö. '06-szervezés'/'Egyenes kieséses mérkőzések'/7;
+        2. ha az első mérkőzésén nem jelenik meg, úgy kell kezelni, mintha egyáltalán nem venne részt a versenyen. 
+5. A csapatversenyek idő és pontszám kereteire vonatkozó szabályokat lásd: '03-általános'/'Csapatmérkőzések'
 
 ## Order of bouts
 
