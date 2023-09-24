@@ -21,7 +21,7 @@
 
 ## Appendix
 
-- [Glossary](appendices/01-glossary.md)
-- [Tables of offence and penalties](appendices/03-penalties.md)
-- [Vor/Priority examples](appendices/02-priority.md)
+- [Glossary](appendix/01-glossary.md)
+- [Tables of offence and penalties](appendix/03-penalties.md)
+- [Vor/Priority examples](appendix/02-priority.md)
 
