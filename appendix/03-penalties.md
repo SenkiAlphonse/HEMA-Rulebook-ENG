@@ -217,7 +217,7 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>1.15
       </td>
-      <td>Entering the Piste enclosure without the Referee’s permission +
+      <td>Entering the Arena enclosure without the Referee’s permission +
       </td>
       <td>
       </td>
