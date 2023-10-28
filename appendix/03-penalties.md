@@ -214,6 +214,14 @@ concerned, which should be consulted in any case of doubt.
       <td>
       </td>
     </tr>
+    <tr>
+      <td>1.15
+      </td>
+      <td>Entering the Piste enclosure without the Referee’s permission +
+      </td>
+      <td>
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -434,6 +442,12 @@ concerned, which should be consulted in any case of doubt.
     <tr>
       <td>*</td>
       <td>Annulling of any hit scored by the competitor at fault</td>
+    </tr>
+    <tr>
+      <td>+</td>
+      <td>Special YELLOW CARD for the whole team and valid for the whole team
+match. If, during the same team match, a fencer commits an offence of the
+1st group the Referee penalises with a RED CARD each time.</td>
     </tr>
     <tr>
       <td bgcolor="#E3D059">YELLOW CARD
