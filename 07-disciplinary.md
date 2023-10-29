@@ -231,6 +231,7 @@
    him on each occasion, with a RED CARD (penalty hit). If the fencer at fault has already been
    penalised by a RED CARD because of an offence listed in the Second or Third Group, he receives a
    further RED CARD for his first infringement relating to the First Group.
+1. Within team matches, the count of 1st group offences is reset at the beginning of each bout within the team match (in each team match bout, the first offence belonging in the 1st group is penalised with YELLOW CARD, etc.) - except for special YELLOW CARDs affecting the whole team, which are noted in the table of penalties. These YELLOW CARDs affect the rest of the team match, and any subsequent violation belonging in the 1st group will be penalized with a RED CARD.
 
 ### The Second Group of offences
 
