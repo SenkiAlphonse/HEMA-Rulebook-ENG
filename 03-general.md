@@ -84,9 +84,7 @@
    1. Both in team and individual events, only the fencer in the arena has the right to request a video review. 
    1. In individual events, the fencer has one possible appeal during each bout, both in pool and elimination bouts. Should the referee agree with the fencer who appealed for the video-refereeing, the latter is entitled to retain the right of appeal. The organizer must ensure the technical conditions of the video review in direct elimination bouts.
    1. In team events, the fencers have one possible right to appeal to the video-refereeing per relay and they are entitled to retain this right should the referee agree with the appeal.
-    3 In the case of an appeal for video-refereeing, the referee will walk over to the video consultant, they
-    will watch the video together and after having analysed the action, the referee will give their final
-    decision. 
+   1. In the case of an appeal for video-refereeing, the referee will walk over to the video consultant, they will watch the video together and after having analysed the action, the referee will give their final decision. 
 
 1. In case the points of the fencers are equal at the time limit, an additional minute of time is
     given, during which the first valid hit wins the bout. Additionally, before overtime starts, the
