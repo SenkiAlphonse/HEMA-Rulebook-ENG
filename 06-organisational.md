@@ -203,12 +203,11 @@
     during and after the event.
 
 3.  The head of the Refereeing Team oversees the allocation and performance of the Referees and
-    Assistants. The Refereeing committee can be approached directly by the participants or their
-    representatives, if questions regarding the performance of any of the Referees are raised.
+    Assistants. In case of an appeal against a referee's decision or performance and the referee stands by their opinion, the head of the Refereeing Team has the authority to settle the appeal. The head of the refereeing team has the authority to observe or supervise, personally or via a delegate, the work of a referee.
 
-4.  The head of Equipment Inspection performs pre-tournament checks of safety equipment and weapons,
+5.  The head of Equipment Inspection performs pre-tournament checks of safety equipment and weapons,
     stamps passed items and keeps a list of participants whose safety equipment has been deemed
     satisfactory.
 
-5.  The Technical Team manages the technical infrastructure, including the competition management
+6.  The Technical Team manages the technical infrastructure, including the competition management
     software, ensuring that the events are recorded, stored, displayed correctly.
