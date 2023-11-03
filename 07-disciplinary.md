@@ -102,23 +102,28 @@
 3.  The referee has the right to interrupt a bout if the play becomes confused, dangerous or she/he
     is unable to clearly judge the action any more. In the absence of an objective scoring device,
     the fencing phrases are judged according to the referee and assistant's observation of the
-    action. While fencers are welcome to address the referee for clarification or appeals before the
-    final decision is made, the referee's judgment regarding facts is not to be questioned in
-    retrospect.
+    action. Before the final decision is made, fencers may address the referee for clarification or an appeal. The referee's judgment regarding points of fact is not to be questioned (except for the appeals for video refereeing), and if a fencer infringes on this principle, they will be penalised according to the rules regarding the 1st group of offences. A point of fact includes, but is not limited to, any ruling by the referee analysing what happened on the piste, such as the validity or priority of a hit, whether a fencer left the side or end of the arena or if a person’s behaviour is a Group 3 or Group 4 offence. However if theReferee is ignorant of or misunderstands a definite rule, or applies it in a manner contrary to the Rules, an appeal on this matter may be entertained.
 
-4.  In his capacity as director of the bout and arbiter of hits, he can, in accordance with the
+    This appeal must be made:
+    1. in individual events, by the fencer,
+    1. in team events, by the fencer or the team captain,
+       
+    it should be made courteously but without formality, and should be made verbally to the Referee immediately and before any decision is made regarding a subsequent hit.
+    If the Referee maintains his opinion, the Head of the Refereeing Team has the authority to settle an appeal, or if he finds it necessary, provide suprvision for the rest of the bout. If such an appeal is deemed to be unjustified, the fencer will be penalised according to the rules regarding the 1st group of offences. 
+
+5.  In his capacity as director of the bout and arbiter of hits, he can, in accordance with the
     rules, penalise the competitors, either by refusing to award a hit which they have in fact made
     on the opponent, or by awarding against them a hit which they have not in fact received, or by
     excluding them from the competition which he is refereeing, all, according to the circumstances,
     with or without prior warning. In these circumstances, and if he has judged on a matter of fact,
     his decisions are irrevocable
 
-5.  By reason of the right of jurisdiction which he has over all the fencers who participate in, or
+6.  By reason of the right of jurisdiction which he has over all the fencers who participate in, or
     are present at a competition which he is refereeing, he can also propose to the the expulsion
     from the venue of the competition of the spectators, trainers, instructors and other persons who
     accompany the competitors.
 
-6.  Finally, he may recommend to the Organising Team all other penalties which he considers
+7.  Finally, he may recommend to the Organising Team all other penalties which he considers
     appropriate (exclusion from the whole competition, suspension or disqualification). The Head of
     the Refereeing Team is the authority competent to deal with appeals against the decisions of the
     Referee.
