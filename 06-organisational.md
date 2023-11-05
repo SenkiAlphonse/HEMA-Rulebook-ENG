@@ -199,8 +199,7 @@
     bouts and advise on immediate management.
 
 2.  The head of the Organising Team is responsible for the overall smooth running of the tournament.
-    The Organising Team is available for questions, complaints which are not concerned with a referee’s decision, compliments, and suggestions, before
-    during and after the event.
+    The Organising Team is available for questions, complaints which are not concerned with a referee’s decision (preferably without delay and in writing), compliments, and suggestions, before uring and after the event.
 
 3.  The head of the Refereeing Team oversees the allocation and performance of the Referees and
     Assistants. In case of an appeal against a referee's decision or performance and the referee stands by their opinion, the head of the Refereeing Team has the authority to settle the appeal. The head of the refereeing team has the authority to observe or supervise, personally or via a delegate, the work of a referee.
