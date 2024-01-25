@@ -229,10 +229,10 @@ point for opponent as well.
     1. Point for attack on preparation to A
 52. A fencer is retreating from the advancing opponent for several steps, while holding her weapon in the langort position, aiming at the valid target of the opponent. However, as the opponent starts her attack, by first trying to take the blade and remove it from the line, the fencer reacts to it by a disengagement, during which the weapon continuously threatens the valid target of the opponent; resulting in a double hit. What is the outcome?
     1. Point for the langort.
-```diff
-! 10. A fencer attacks by first taking the opponent's blade in a continuous compound action, with lunge. He touches the blade, but does not remove it from the line, and the opponent is able to start a single attack at the same time as the fencer’s own final cut starts. The result is a double hit. What is the referee’s decision?
-!    1. Simultaneous hit, point for both.
-```
+
+10. A fencer attacks by first taking the opponent's blade in a continuous compound action, with lunge. He touches the blade, but does not remove it from the line, and the opponent is able to start a single attack at the same time as the fencer’s own final cut starts. The result is a double hit. What is the referee’s decision?
+1. Simultaneous hit, point for both.
+
 11. A fencer attacks by first taking the opponent's blade in a compound action, with lunge or step-lunge or passing-step-lunge. He takes the blade at its weak part, removes it from the line by a beat or engagement, and hits with the attack in a continuous motion. The opponent starts an attack as he realises that his weapon has been taken. The result is a double hit. What is the referee’s decision?
     1. Point for the attack, with taking of the blade.
 12. Fencer 'A' attacks by first taking the opponent's blade in a compound action, with lunge or step-lunge or passing-step-lunge. Fencer 'B' disengages, and hits with a continuous motion. The fencer 'A' continues his attack regardless of having missed the blade. The result is a double hit. What is the referee’s decision?
